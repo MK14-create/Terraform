@@ -18,8 +18,7 @@ This is a basic Terraform implementation using the AWS provider and EC2 resource
 
 **Project Structure**
 
-terraform-ec2/
-│
+terraform-ec2/│
 ├── main.tf
 └── README.md
 
